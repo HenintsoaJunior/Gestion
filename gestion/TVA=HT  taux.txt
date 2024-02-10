@@ -1,0 +1,10 @@
+TVA=HT * taux
+
+TTC = HT + TVA
+
+TTC = HT + HT * taux
+
+    = HT (1 * taux )
+
+    = TVA/taux *(1 + taux) 
+
